@@ -2,6 +2,11 @@
 
 This is just a test, for fun!
 
+![Example 1](/doc/example1.png "Example 1")
+
+![Example 2](/doc/example2.png "Example 2")
+
+
 ## Requirements
 
 This test bundle works with PHP >= 8.1
