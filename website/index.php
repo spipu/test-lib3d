@@ -46,7 +46,7 @@
                 document.getElementById('val1').value = va1;
                 document.getElementById('val2').value = va2;
 
-                url+= '&va1='+va1+'&va2='+va2+'&rand=' + (new Date()).getTime();
+                url+= '&va1='+va1+'&va2='+va2;
                 document.getElementById('obj_image').src = url;
             }
 
